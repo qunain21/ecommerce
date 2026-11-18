@@ -1,0 +1,6 @@
+{
+  "name": "ZARIYAH — Pakistani Luxury Pret & Unstitched Atelier",
+  "description": "Contemporary Pakistani luxury fashion storefront featuring unstitched lawn, cambric, ready-to-wear, luxury pret, and festive chiffon collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
